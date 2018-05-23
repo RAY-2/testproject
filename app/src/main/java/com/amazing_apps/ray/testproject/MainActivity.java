@@ -2,9 +2,11 @@ package com.amazing_apps.ray.testproject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
+    Button button;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -14,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
     public void display_main()
     {
         setContentView(R.layout.activity_main);
+
     }
 }
