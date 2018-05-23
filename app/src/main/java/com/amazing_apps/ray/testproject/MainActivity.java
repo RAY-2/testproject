@@ -27,5 +27,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.print("hgfdxdcfvgb000");
 
 
+        int sbisdvb=0;
     }
 }
