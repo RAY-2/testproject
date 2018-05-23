@@ -22,6 +22,10 @@ public class MainActivity extends AppCompatActivity {
         int uiii=0;
 
         System.out.print("hgfdxdcfvgb000");
+        System.out.print("hgfdxdcfvgb000");
+        System.out.print("hgfdxdcfvgb000");
+        System.out.print("hgfdxdcfvgb000");
+
 
     }
 }
