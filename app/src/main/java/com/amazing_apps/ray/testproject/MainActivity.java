@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
 
         String abcd="cdjbsjhs";
 
+        string shshs = "dndubfv";
+
 
     }
 }
