@@ -34,4 +34,10 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+
+    public void newmethod()
+    {
+        int i=0;
+    }
 }
